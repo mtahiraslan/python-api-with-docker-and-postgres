@@ -1,4 +1,4 @@
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://github.com/mtahiraslan/python-api-with-docker-and-postgres/blob/main/architecture.png)
 
 # Python CoincapAPI with Docker & PostgreSQL
 
@@ -96,11 +96,6 @@ Run the cells in the Coincap_api.ipynb file one by one and make sure it works co
 | `ids` | `optional` | `bitcoin` | query with multiple ids=bitcoin,ethereum,monero |
 | `limit` | `optional` | `5` | max limit of 2000 |
 | `offset` | `optional` | `1` | offset |
-
-
-```http
-  GET /api/items/${id}
-```
 
 #### Response
 
