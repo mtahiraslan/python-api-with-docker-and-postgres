@@ -123,4 +123,4 @@ You can fork this repo and send a pull request to fix any mistakes that you have
 
 ## Final Result
 
-![Result](https://github.com/mtahiraslan/python-api-with-docker-and-postgres/blob/main/architecture.png)
+![Result](https://github.com/mtahiraslan/python-api-with-docker-and-postgres/blob/main/result.png)
