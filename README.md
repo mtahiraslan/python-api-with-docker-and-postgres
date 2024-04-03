@@ -1,6 +1,6 @@
 ![Logo](https://github.com/mtahiraslan/python-api-with-docker-and-postgres/blob/main/architecture.png)
 
-# Python CoincapAPI with Docker & PostgreSQL
+# Python RestfulAPI(CoincapAPI) with Docker & PostgreSQL
 
 The project leverages Docker, PostgreSQL, pgAdmin, and Python to integrate cryptocurrency market data into a PostgreSQL database using the CoincapAPI. Its primary purpose is to provide an efficient and streamlined process for fetching, transforming, and storing live cryptocurrency market data. By utilizing Docker containers for the database and admin tool, the solution ensures a consistent and isolated environment, making it highly portable and easy to set up across different machines or environments. This project is particularly useful for data analysts, financial technologists, and cryptocurrency enthusiasts looking to harness the power of real-time market data for analysis, reporting, or integration into financial software and applications.
 
